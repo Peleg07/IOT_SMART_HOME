@@ -1,7 +1,5 @@
 <div>
-   <h1>IOT Underfloor Heating App
-      <img src="https://cdn.icon-icons.com/icons2/370/PNG/512/Home3_37171.png" width="45",height="-10"  align=right/> 
-   </h1>
+   <h1>IOT Underfloor Heating App :desktop_computer:</h1>
 </div>
 
 <div id="header" align="center">
