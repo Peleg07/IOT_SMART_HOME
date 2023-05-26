@@ -1,6 +1,9 @@
-<h1>
-   <img src="https://cdn.icon-icons.com/icons2/370/PNG/512/Home3_37171.png" width="45",height="0"/> IOT Underfloor Heating App
-</h1>
+<div>
+   <h1>IOT Underfloor Heating App
+      <img src="https://cdn.icon-icons.com/icons2/370/PNG/512/Home3_37171.png" width="45",height="-10"  align=right/> 
+   </h1>
+</div>
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/j6NaTTkaqWS6RoV3qt/giphy.gif?cid=ecf05e478lh490fnisn5ze3itoqqivtgn3uq0pywf9j80uct&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
@@ -23,8 +26,16 @@
    and details.
 * Code using Python
 * Database using Sqlite3
-         
+     
+ <div><div/>
     
+### Architecture:
+<div id="header" align="center">
+  <img src="https://github.com/Peleg07/IOT_SMART_HOME/assets/89268094/4386feb5-836e-4248-a15c-9fdb64919054" width="450"/>
+</div>
+
+     
+     
 ### Languages and Tools :hammer_and_wrench::
 <div>
    <img src="https://github.com/Peleg07/icons/blob/main/icons/SQLite.svg" title="Sqlite" width="40" height="40"/>&nbsp;
