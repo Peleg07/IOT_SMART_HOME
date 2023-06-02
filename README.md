@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
 </div>
     
-<h1 align="center">_________________________________________________________________</h1>
+<h1 align="center">_____________________________________________________________</h1>
    
    
 ### Introduction:
