@@ -46,4 +46,9 @@
 https://github.com/Peleg07/IOT_SMART_HOME/assets/89268094/6cf2fcb7-4193-4dd0-a5c7-2e8a9dbe84c2
     
  ### Pics :camera_flash:
+<img width="289" alt="1" src="https://github.com/Peleg07/IOT_SMART_HOME/assets/89268094/8eaf079c-b44b-4ed2-bdbe-b396d7afbb1d">    
+<img width="459" alt="3" src="https://github.com/Peleg07/IOT_SMART_HOME/assets/89268094/2cb33776-902a-4722-b898-49b7f15fd0cb">
 
+    
+ ### Pics Database
+<img width="762" alt="5" src="https://github.com/Peleg07/IOT_SMART_HOME/assets/89268094/ed27518e-86b1-46bf-98ed-faacf943e173">
