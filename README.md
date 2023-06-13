@@ -42,5 +42,8 @@
  
  <div><div/>
  
- ### Demo :clapper::
-https://user-images.githubusercontent.com/89268094/218276615-d258e9ba-65fc-4941-adac-bcd0858b24c3.mp4
+ ### Presentation :clapper::
+https://github.com/Peleg07/IOT_SMART_HOME/assets/89268094/6cf2fcb7-4193-4dd0-a5c7-2e8a9dbe84c2
+    
+ ### Pics :camera_flash:
+
